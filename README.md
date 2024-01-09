@@ -19,3 +19,6 @@ dataset yang saya gunakan bersumber dari berbagai platform
 - 2 dari Kaggle dan 1 dari Twitter
 - df6 = Kaggle
 - df7 = Twiter
+
+### LINK YOUTUBE PRESENTASI
+#### https://youtu.be/quvhUva_shs
